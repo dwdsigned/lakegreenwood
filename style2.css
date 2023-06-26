@@ -53,11 +53,11 @@ body {
 
 #ndx-come {
 	text-decoration: none;
-	color: white;
+	color: rgb(255, 255, 255);
 }
 
 a:visited {
-	color: white;
+	color: rgb(255, 255, 255);
 }
 
 a:hover {
