@@ -1,0 +1,76 @@
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+h1 {
+	color: white;
+	font-family: 'Dancing Script', cursive;
+	font-size: 3;
+	text-align: center;
+	box-shadow: 4px 4px 5px rgba(93, 106, 130, 1);
+	width: 300px;
+}
+
+img {
+	width: 450px;
+	height: 300px;
+	margin: 10px;
+	transition: all 1s;
+}
+
+img:hover {
+	transform: scale(1.1);
+}
+
+body {
+	margin-top: 0%;
+	background-color: rgba(93, 106, 130, .85);
+}
+
+/* #welcome{
+	color: chartreuse;
+} */
+
+#welcome-ctr {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#ndx-wel { /*div */
+	color: white;
+	font-family: 'Dancing Script', cursive;
+	font-size: 4rem;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	height: 700px;
+	text-align: center;
+}
+
+#ndx-come {
+	text-decoration: none;
+}
+
+
+
+
+
+a:visited {
+	color: white;
+}
+
+a {
+	transition: all .1s;
+}
+
+a:hover {
+	transform: scale(1.5);
+	color: rgb(49, 77, 19);
+}
+
+
+
